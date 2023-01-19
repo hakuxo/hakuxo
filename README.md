@@ -1,4 +1,4 @@
-<img src="[https://github.com/hakuxo/hakuxo/blob/main/github%20banner%20(960%20%C3%97%20152%20px)%20(640%20%C3%97%20152%20px).gif?raw=true](https://github.com/hakuxo/hakuxo/blob/main/github%20banner%20(960%20%C3%97%20152%20px)%20(640%20%C3%97%20152%20px)%20(960%20%C3%97%20152%20px).gif?raw=true)" alt="banner that was custom made">
+<img src="https://github.com/hakuxo/hakuxo/blob/main/github%20banner%20(960%20%C3%97%20152%20px)%20(640%20%C3%97%20152%20px)%20(960%20%C3%97%20152%20px).gif?raw=true" alt="banner">
 
 
 ### Hi there 👋
