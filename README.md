@@ -1,12 +1,9 @@
-<img src="https://github.com/hakuxo/hakuxo/blob/main/github%20banner%20(960%20%C3%97%20152%20px)%20(640%20%C3%97%20152%20px)%20(960%20%C3%97%20152%20px).gif?raw=true" alt="banner">
+<img src="https://github.com/hakuxo/hakuxo/blob/main/github%20banner%20(960%20%C3%97%20152%20px)%20(640%20%C3%97%20152%20px)%20(960%20%C3%97%20152%20px)%20(1).gif?raw=true" alt="banner">
 
 
-### Hi there 👋
+### Hello! 
 
-<!--
-**hakuxo/hakuxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
