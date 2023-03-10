@@ -10,7 +10,7 @@
   
   ☆ I’m currently working on an updated portfolio!
  
-  ✭ I’m currently learning **MERN & State**
+  ✭ I’m currently learning more about **React**
  
   ☆ My [Portfolio](https://hakuxo.github.io/Portfolio/)
  
