@@ -10,7 +10,7 @@
   
   ☆ I’m currently working on an updated portfolio!
  
-  ✭ I’m currently learning more about **React**
+  ✭ I’m currently diving into **Three.JS**
  
   ☆ My [Portfolio](https://hakuxo.github.io/Portfolio/)
  
